@@ -1,0 +1,178 @@
+{
+  "location_id": 1,
+  "name": "Galactic center",
+  "location_x": 41.8819,
+  "location_y": -87.6278,
+  "location_z": -15.8432,
+  "taxes": [
+    {
+      "name": "occupancy tax",
+      "rate": 0.164
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bespin Level 1 at Cloud City",
+      "location_x": 41.8883,
+      "location_y": -87.6381,
+      "location_z": 2.9874,
+      "rates": [
+        {
+          "base_price": 179.00,
+          "room_id": "3",
+          "name": "Double"
+        },
+        {
+          "base_price": 179.00,
+          "room_id": "6",
+          "name": "Single"
+        },
+        {
+          "base_price": 49.00,
+          "room_id": "8",
+          "name": "Carbonite chamber"
+        }
+      ],
+      "star_rating": 4,
+      "user_ratings": [
+        {
+          "user_id": "hsolo",
+          "rating": 1
+        },
+        {
+          "user_id": "bfett",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "name": "Crowne Plaza of Betazed",
+      "location_x": 41.8813,
+      "location_y": -87.6469,
+      "location_z": -22.7631,
+      "rates": [
+        {
+          "base_price": 195.00,
+          "room_id": "2",
+          "name": "Double/Double"
+        },
+        {
+          "base_price": 195.00,
+          "room_id": "12",
+          "name": "King"
+        },
+        {
+          "base_price": 195.00,
+          "room_id": "13",
+          "name": "King-Handicap Accessible"
+        }
+      ],
+      "star_rating": 3,
+      "user_ratings": [
+        {
+          "user_id": "riker",
+          "rating": 4
+        },
+        {
+          "user_id": "janeway2",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "name": "aloft Caprica City Center",
+      "location_x": 41.8915,
+      "location_y": -87.6309,
+      "location_z": 2.9864,
+      "rates": [
+        {
+          "base_price": 209.00,
+          "room_id": "1",
+          "name": "King-Shower"
+        },
+        {
+          "base_price": 219.00,
+          "room_id": "2",
+          "name": "Double Queen"
+        }
+      ],
+      "star_rating": 3,
+      "user_ratings": [
+        {
+          "user_id": "starbuck",
+          "rating": 4
+        },
+        {
+          "user_id": "tauron213",
+          "rating": 4
+        },
+        {
+          "user_id": "agathon14",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Hyatt Place of Babylon 5",
+      "location_x": 41.8910,
+      "location_y": -87.6309,
+      "location_z": -19.4384,
+      "rates": [
+        {
+          "base_price": 249.00,
+          "room_id": "5",
+          "name": "King"
+        },
+        {
+          "base_price": 259.00,
+          "room_id": "6",
+          "name": "Double Queen"
+        }
+      ],
+      "star_rating": 4,
+      "user_ratings": [
+        {
+          "user_id": "minbari272",
+          "rating": 3
+        },
+        {
+          "user_id": "delenn",
+          "rating": 3
+        },
+        {
+          "user_id": "VPClark",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "name": "DoubleTree of Manassas, Reach",
+      "location_x": 41.8928,
+      "location_y": -87.6199,
+      "location_z": 11.7548,
+      "rates": [
+        {
+          "base_price": 260.00,
+          "room_id": "1",
+          "name": "2 Doubles"
+        },
+        {
+          "base_price": 249.00,
+          "room_id": "2",
+          "name": "1 King"
+        }
+      ],
+      "star_rating": 3,
+      "user_ratings": [
+        {
+          "user_id": "AdmPCole",
+          "rating": 2
+        },
+        {
+          "user_id": "S117",
+          "rating": 3
+        }
+      ]
+    }
+  ]
+}
