@@ -4,10 +4,7 @@ import com.johnwalterstockwell.expedia.models.resource.Hotel;
 import com.johnwalterstockwell.expedia.models.resource.Hotels;
 import org.apache.commons.math3.ml.distance.EuclideanDistance;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 /**
  * Responsible for getting a list of hotels and returning it in a specific order based on the requested criteria.
@@ -55,8 +52,20 @@ public class HotelListSorter {
         final List<Hotel> sortedHotelList = hotels.getHotels();
 
         sortedHotelList.sort((hotel1, hotel2) -> {
-            Double hotel1Minimum = hotel1.getRates().stream().mapToDouble(value -> value.getBasePrice()).min().getAsDouble();
-            Double hotel2Minimum = hotel2.getRates().stream().mapToDouble(value -> value.getBasePrice()).min().getAsDouble();
+            OptionalDouble hotel1Optional = hotel1.getRates().stream().mapToDouble(value -> value.getBasePrice()).min();
+            OptionalDouble hotel2Optional = hotel2.getRates().stream().mapToDouble(value -> value.getBasePrice()).min();
+
+            Double hotel1Minimum = Double.MAX_VALUE;
+            Double hotel2Minimum = Double.MAX_VALUE;
+
+            if (hotel1Optional.isPresent()) {
+                hotel1Minimum = hotel1Optional.getAsDouble();
+            }
+
+            if (hotel2Optional.isPresent()) {
+                hotel2Minimum = hotel2Optional.getAsDouble();
+            }
+
             return hotel1Minimum.compareTo(hotel2Minimum);
         });
 
@@ -72,8 +81,20 @@ public class HotelListSorter {
         final List<Hotel> sortedHotelList = hotels.getHotels();
 
         sortedHotelList.sort((hotel1, hotel2) -> {
-            Double hotel1Average = hotel1.getUserRatings().stream().mapToDouble(value -> value.getRating()).average().getAsDouble();
-            Double hotel2Average = hotel2.getUserRatings().stream().mapToDouble(value -> value.getRating()).average().getAsDouble();
+            Double hotel1Average = Double.MIN_VALUE;
+            Double hotel2Average = Double.MIN_VALUE;
+
+            OptionalDouble hotel1Optional = hotel1.getUserRatings().stream().mapToDouble(value -> value.getRating()).average();
+            OptionalDouble hotel2Optional = hotel2.getUserRatings().stream().mapToDouble(value -> value.getRating()).average();
+
+            if (hotel1Optional.isPresent()) {
+                hotel1Average = hotel1Optional.getAsDouble();
+            }
+
+            if (hotel2Optional.isPresent()) {
+                hotel2Average = hotel2Optional.getAsDouble();
+            }
+
             return hotel1Average.compareTo(hotel2Average);
         });
 
