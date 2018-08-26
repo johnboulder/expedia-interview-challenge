@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e230a412-4d68-46ff-a417-8fefd08b9aa0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/com_johnwalterstockwell_expedia_interview_challenge$HotelListSorterTest_getHotelsByDistanceFromCenterDescending.ic" NAME="HotelListSorterTest.getHotelsByDistanceFromCenterDescending Coverage Results" MODIFIED="1535246361100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.johnwalterstockwell.expedia.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/com_johnwalterstockwell_expedia_interview_challenge$HotelListSorterTest.ic" NAME="HotelListSorterTest Coverage Results" MODIFIED="1535241247674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.johnwalterstockwell.expedia.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.johnwalterstockwell.expedia-interview-challenge" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.johnwalterstockwell.expedia-interview-challenge" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.johnwalterstockwell.expedia-interview-challenge" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.johnwalterstockwell.expedia-interview-challenge" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.johnwalterstockwell.expedia-interview-challenge" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.johnwalterstockwell.expedia-interview-challenge" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HotelListSorterTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/johnwalterstockwell/expedia/HotelListSorterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HotelListSorter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListSorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="75" column="132" lean-forward="true" selection-start-line="75" selection-start-column="132" selection-end-line="75" selection-end-column="132" />
+              <folding>
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hotels.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/hotels.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2508">
+              <caret line="135" column="21" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ascending</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>descending</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Program Files\Gradle\gradle-4.9" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.9" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="com.johnwalterstockwell.expedia-interview-challenge" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="com.johnwalterstockwell.expedia-interview-challenge" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'com.johnwalterstockwell.expedia-interview-challenge'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'com.johnwalterstockwell.expedia-interview-challenge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'com.johnwalterstockwell.expedia-interview-challenge'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'com.johnwalterstockwell.expedia-interview-challenge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'com.johnwalterstockwell.expedia-interview-challenge'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'com.johnwalterstockwell.expedia-interview-challenge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'com.johnwalterstockwell.expedia-interview-challenge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'com.johnwalterstockwell.expedia-interview-challenge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'com.johnwalterstockwell.expedia-interview-challenge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4605626271570" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="113023072" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1664851860" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.ltgt.gradle/gradle-apt-plugin/0.10/97cc8bd653e88529acaba1e90e1c18fc626748fd/gradle-apt-plugin-0.10.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="com.johnwalterstockwell.expedia-interview-challenge" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/announce" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/antlr" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/base-services" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/base-services-groovy" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/build-cache" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/build-cache-http" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/build-comparison" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/build-init" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/build-option" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/cli" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/code-quality" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/composite-builds" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/core" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/core-api" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/dependency-management" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/diagnostics" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/ear" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/ide" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/ide-native" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/ide-play" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/installation-beacon" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/internal-android-performance-testing" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/internal-integ-testing" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/internal-performance-testing" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/internal-testing" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/ivy" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/jacoco" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/javascript" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/jvm-services" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/language-groovy" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/language-java" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/language-jvm" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/language-native" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/language-scala" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/launcher" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/logging" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/maven" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/messaging" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/model-core" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/model-groovy" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/native" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/osgi" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/persistent-cache" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/platform-base" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/platform-jvm" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/platform-native" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/platform-play" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/plugin-development" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/plugin-use" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/plugins" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/process-services" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/publish" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/reporting" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/resources" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/resources-gcs" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/resources-http" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/resources-s3" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/resources-sftp" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/scala" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/signing" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/test-kit" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/testing-base" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/testing-junit-platform" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/testing-jvm" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/testing-native" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/tooling-api" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/tooling-api-builders" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/version-control" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/workers" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/src/wrapper" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/ant-1.9.11.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/ant-launcher-1.9.11.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-base-services-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-build-cache-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-build-option-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-cli-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-core-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-core-api-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-docs-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-launcher-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-logging-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-messaging-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-model-core-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-native-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-process-services-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-resources-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/gradle-wrapper-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/groovy-all-2.4.12.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="C:/Program Files/Gradle/gradle-4.9/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/NewPipe/NewPipe" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/HotelGetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HotelController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HotelListingControllerTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+        <option value="$PROJECT_DIR$/src/main/java/HotelListingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/expedia/HotelListingController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/expedia/HotelListingControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/expedia/domain/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/domain/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/johnwalterstockwell/expedia/HotelListingControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hotels.json" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/UserRating.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Tax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Rate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotels.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListSorter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/johnwalterstockwell/expedia/HotelListSorterTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-134" />
+    <option name="y" value="264" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="expedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="expedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.johnwalterstockwell.expedia-interview-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="expedia-interview-challenge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30689654" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="expedia" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stockweezie\IdeaProjects\expedia-interview-challenge\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HotelListSorterTest.getHotelsByAverageUserRatingDescending">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="HotelListSorterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.johnwalterstockwell.expedia-interview-challenge_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.johnwalterstockwell.expedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.johnwalterstockwell.expedia" />
+      <option name="MAIN_CLASS_NAME" value="com.johnwalterstockwell.expedia.HotelListSorterTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HotelListSorterTest.getHotelsByAverageUserRatingDescending" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.johnwalterstockwell.expedia-interview-challenge_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.johnwalterstockwell.expedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.johnwalterstockwell.expedia" />
+      <option name="MAIN_CLASS_NAME" value="com.johnwalterstockwell.expedia.HotelListSorterTest" />
+      <option name="METHOD_NAME" value="getHotelsByAverageUserRatingDescending" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HotelListSorterTest.getHotelsByDistanceFromCenterDescending" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.johnwalterstockwell.expedia-interview-challenge_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.johnwalterstockwell.expedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.johnwalterstockwell.expedia" />
+      <option name="MAIN_CLASS_NAME" value="com.johnwalterstockwell.expedia.HotelListSorterTest" />
+      <option name="METHOD_NAME" value="getHotelsByDistanceFromCenterDescending" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HotelListSorterTest.getHotelsByLowestPriceDescending" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.johnwalterstockwell.expedia-interview-challenge_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.johnwalterstockwell.expedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.johnwalterstockwell.expedia" />
+      <option name="MAIN_CLASS_NAME" value="com.johnwalterstockwell.expedia.HotelListSorterTest" />
+      <option name="METHOD_NAME" value="getHotelsByLowestPriceDescending" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="expedia-interview-challenge_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HotelListSorterTest" />
+      <item itemvalue="JUnit.HotelListSorterTest.getHotelsByDistanceFromCenterDescending" />
+      <item itemvalue="JUnit.HotelListSorterTest.getHotelsByLowestPriceDescending" />
+      <item itemvalue="JUnit.HotelListSorterTest.getHotelsByAverageUserRatingDescending" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HotelListSorterTest.getHotelsByAverageUserRatingDescending" />
+        <item itemvalue="JUnit.HotelListSorterTest" />
+        <item itemvalue="JUnit.HotelListSorterTest.getHotelsByLowestPriceDescending" />
+        <item itemvalue="JUnit.HotelListSorterTest.getHotelsByDistanceFromCenterDescending" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e230a412-4d68-46ff-a417-8fefd08b9aa0" name="Default" comment="" />
+      <created>1535137953411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535137953411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HotelListSorterTest_getHotelsByDistanceFromCenterDescending - 2018.08.25 at 20h 53m 01s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByDistanceFromCenterDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByDistanceFromCenterDescending - 2018.08.25 at 20h 55m 08s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByDistanceFromCenterDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByDistanceFromCenterDescending - 2018.08.25 at 21h 01m 12s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByDistanceFromCenterDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByDistanceFromCenterDescending - 2018.08.25 at 21h 01m 25s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByDistanceFromCenterDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByLowestPriceDescending - 2018.08.25 at 21h 18m 37s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByLowestPriceDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByLowestPriceDescending - 2018.08.25 at 21h 19m 27s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByLowestPriceDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByAverageUserRatingDescending - 2018.08.25 at 21h 47m 21s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByAverageUserRatingDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest - 2018.08.25 at 21h 49m 06s.xml">
+      <configuration name="HotelListSorterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByAverageUserRatingDescending - 2018.08.25 at 21h 50m 10s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByAverageUserRatingDescending" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HotelListSorterTest_getHotelsByAverageUserRatingDescending - 2018.08.25 at 21h 50m 19s.xml">
+      <configuration name="HotelListSorterTest.getHotelsByAverageUserRatingDescending" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32985386" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5008696" side_tool="true" weight="0.28784648" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20842217" />
+      <window_info anchor="bottom" id="Build" order="3" weight="0.32985386" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32985386" />
+      <window_info anchor="right" id="Gradle" order="1" sideWeight="0.49913043" weight="0.28784648" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39979124" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="896" id="Documentation" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="3" weight="0.32985386" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32985386" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="434" height="896" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32985386" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="3" sideWeight="0.49913043" weight="0.28784648" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1945629" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="1" sideWeight="0.5008696" side_tool="true" weight="0.28784648" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39979124" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/johnwalterstockwell/expedia/HotelListSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Point.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HotelListingControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Point.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" lean-forward="true" selection-end-line="177" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Rate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/UserRating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/models/resource/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/classes/hotels.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/hotels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="135" column="21" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnwalterstockwell/expedia/HotelListSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="75" column="132" lean-forward="true" selection-start-line="75" selection-start-column="132" selection-end-line="75" selection-end-column="132" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/johnwalterstockwell/expedia/HotelListSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.johnwalterstockwell.expedia-interview-challenge_test|com.johnwalterstockwell.expedia-interview-challenge</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

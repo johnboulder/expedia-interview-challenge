@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'net.ltgt.apt' version '0.10'
+}
+
+group 'com.johnwalterstockwell.expedia'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    compile 'com.google.code.gson:gson:2.8.5'
+    compile 'org.apache.commons:commons-math3:3.6.1'
+    compile 'org.projectlombok:lombok:1.18.2'
+    apt "org.projectlombok:lombok:1.18.2"
+}
